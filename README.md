@@ -1,4 +1,4 @@
-#Random.js
+#random.js
 
 A helper library for Math.random().
 
